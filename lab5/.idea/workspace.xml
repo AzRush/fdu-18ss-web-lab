@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6edd8373-d519-4987-bbf2-f0c1da3fb9b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_includes/ads.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_includes/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_includes/nav-components.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_includes/nav-css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_includes/nav-customize.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_includes/nav-getting-started.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_includes/nav-javascript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_includes/nav-main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_includes/old-bs-docs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_includes/social-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/_layouts/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/css/docs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/css/pygments-manni.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/ico/apple-touch-icon-114-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/ico/apple-touch-icon-144-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/ico/apple-touch-icon-57-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/ico/apple-touch-icon-72-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/ico/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/js/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/js/customizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/js/filesaver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/js/holder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/js/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/js/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/js/less.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/js/raw-files.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/js/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/assets/js/uglify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/browserstack.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/components.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/customize.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/carousel/carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/carousel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/grid/grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/grid/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/jumbotron-narrow/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/jumbotron-narrow/jumbotron-narrow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/jumbotron/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/jumbotron/jumbotron.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/justified-nav/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/justified-nav/justified-nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/navbar-fixed-top/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/navbar-fixed-top/navbar-fixed-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/navbar-static-top/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/navbar-static-top/navbar-static-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/navbar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/navbar/navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/non-responsive/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/non-responsive/non-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/offcanvas/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/offcanvas/offcanvas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/offcanvas/offcanvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/carousel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/grid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/jumbotron-narrow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/jumbotron.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/justified-nav.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/navbar-fixed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/navbar-static.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/navbar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/non-responsive.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/offcanvas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/sign-in.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/starter-template.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/sticky-footer-navbar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/sticky-footer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/screenshots/theme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/signin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/signin/signin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/starter-template/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/starter-template/starter-template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/sticky-footer-navbar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/sticky-footer-navbar/sticky-footer-navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/sticky-footer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/sticky-footer/sticky-footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/theme/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/examples/theme/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/getting-started.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/javascript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/affix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/phantom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/affix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/phantom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/unit/transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/vendor/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/vendor/qunit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tests/vendor/qunit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/js/transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/alerts.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/badges.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/bootstrap.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/breadcrumbs.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/button-groups.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/buttons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/carousel.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/close.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/code.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/component-animations.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/dropdowns.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/forms.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/glyphicons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/grid.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/input-groups.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/jumbotron.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/labels.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/list-group.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/media.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/modals.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/navbar.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/navs.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/normalize.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/pager.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/pagination.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/panels.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/popovers.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/print.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/progress-bars.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/responsive-utilities.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/scaffolding.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/tables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/theme.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/thumbnails.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/tooltip.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/type.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/utilities.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/less/wells.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/bootstrap-3.0.0/package.json" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab5.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab5.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="165" selection-start-line="165" selection-end-line="166" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lab5.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-45" />
+    <option name="y" value="48" />
+    <option name="width" value="1890" />
+    <option name="height" value="1107" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6edd8373-d519-4987-bbf2-f0c1da3fb9b3" name="Default Changelist" comment="" />
+      <created>1555500679205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555500679205</updated>
+      <workItem from="1555500681646" duration="2229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2229000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab5.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="165" selection-start-line="165" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
