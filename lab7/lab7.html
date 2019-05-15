@@ -1,0 +1,95 @@
+<html>
+<head>
+<title>Chapter 10</title>
+<link rel="stylesheet" href="lab7.css">
+<script src="jquery-3.4.1.min.js">
+</script>
+<script>
+    var alt,val,img,imgcss;
+    $(document).ready
+    (
+        function e()
+        {
+            $(".smallImg").click
+            (
+                function ()
+                {
+
+                    $(".bigImg")[0].src = $(this)[0].src.toString().replace(/small/,"medium");
+                    $("figcaption")[0].innerHTML =             "<em>" + $(this)[0].alt + "</em> <br>" + $(this)[0].title;
+
+                }
+            );
+            $(".sliders").change
+            (
+                function ()
+                {
+                    alt = $(this)[0].id.toString().replace(/slider/,"");
+                    val = $(this)[0].value;
+                    val =  $("#num" + alt)[0].innerHTML.toString().replace(/[0-9]*/,val);
+                    $("#num" + alt)[0].innerHTML = val;
+                    img = $(".bigImg");
+                    img.css({"filter" : alt + "(" + val + ")", "-webkit-filter" : alt + "(" + val + ")"});
+                    // alert(alt + val);
+
+                }
+            );
+            $("#resetFilters").click
+            (
+                function ()
+                {
+                    // $("#sliderOpacity")[0].value = 100;
+                    // $("#sliderSaturation")[0].value = 100;
+                    // $("#sliderBrightness")[0].value = 100;
+                    // $("#sliderHue")[0].value = 0;
+                    // $("#sliderGray")[0].value = 0;
+                    // $("#sliderBlur")[0].value = 0;
+                    $("form")[0].innerHTML =            '<p><label>Opacity: </label><input type="range" id="sliderOpacity" min="0" max="100" value="100" class="sliders" /> <span id="numOpacity" >100%</span></p> <p><label>Saturation: </label><input type="range" id="sliderSaturation" min="1" max="300" value="100" class="sliders"/> <span id="numSaturation" >100%</span></p> <p><label>Brightness: </label><input type="range" id="sliderBrightness" min="0" max="300" value="100" class="sliders" /> <span id="numBrightness" >100%</span></p> <p><label>Hue Rotate: </label><input type="range" id="sliderHue" min="0" max="360" value="0" class="sliders" /> <span id="numHue" >0deg</span></p> <p><label>Grayscale: </label><input type="range" id="sliderGray" min="0" max="100" value="0" class="sliders"/> <span id="numGray" >0%</span></p> <p><label>Blur: </label><input type="range" id="sliderBlur" min="0" max="10" value="0" class="sliders" /> <span id="numBlur" >0px</span></p> <p><button type = "button" id="resetFilters" onsubmit="function f() {return false;}" onclick="false">Reset</button> </p>';
+                    $(".bigImg").css({"filter" : "none" , "-webkit-filter" : "none"});
+                    e();
+                }
+            );
+
+        }
+
+
+    );
+
+</script>
+</head>    
+<body class="tiled">
+<header>
+    <h1>Art Filters</h1>
+</header>
+<main>
+    <div id="sliderBox">
+        <form>
+           <p><label>Opacity: </label><input type="range" id="sliderOpacity" min="0" max="100" value="100" class="sliders" /> <span id="numOpacity" >100%</span></p>
+           <p><label>Saturation: </label><input type="range" id="sliderSaturation" min="1" max="300" value="100" class="sliders"/> <span id="numSaturation" >100%</span></p>
+           <p><label>Brightness: </label><input type="range" id="sliderBrightness" min="0" max="300" value="100" class="sliders" /> <span id="numBrightness" >100%</span></p>
+           <p><label>Hue Rotate: </label><input type="range" id="sliderHue" min="0" max="360" value="0" class="sliders" /> <span id="numHue" >0deg</span></p>
+           <p><label>Grayscale: </label><input type="range" id="sliderGray" min="0" max="100" value="0" class="sliders"/> <span id="numGray" >0%</span></p>
+           <p><label>Blur: </label><input type="range" id="sliderBlur" min="0" max="10" value="0" class="sliders" /> <span id="numBlur" >0px</span></p>
+           <p><button type = "button" id="resetFilters" onsubmit="function f() {return false;}" onclick="false">Reset</button> </p>
+        </form>
+    </div>
+    <figure id="imgManipulated">
+        <img src="images/medium/painting1.jpg" class="bigImg">
+        <figcaption>
+            <em>Still Life with Flowers in a Glass Vase</em> <br>
+            Jan Davidsz. de Heem, 1650 - 1683
+        </figcaption>
+    </figure>   
+    <div id="thumbBox">
+        <div><img src="images/small/painting1.jpg"  alt="Still Life with Flowers in a Glass Vase" title="Jan Davidsz. de Heem, 1650 - 1683" class="smallImg"/></div>
+        <div><img src="images/small/painting2.jpg"  alt="Portrait of Alida Christina Assink" title="Jan Adam Kruseman, 1833" class="smallImg"/></div>
+        <div><img src="images/small/painting3.jpg"  alt="Self-portrait" title="Vincent van Gogh, 1887" class="smallImg"/></div>
+        <div><img src="images/small/painting4.jpg"  alt="William II, Prince of Orange, and his Bride, Mary Stuart" title="Anthony van Dyck, 1641" class="smallImg"/></div>
+        <div><img src="images/small/painting5.jpg"  alt="Milkmaid" title="Johannes Vermeer, c. 1660" class="smallImg"/></div>
+    </div>
+</main>
+<script>
+
+</script>    
+</body>   
+</html>
